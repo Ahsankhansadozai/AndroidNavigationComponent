@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidNavigationComponent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_one">Fragment One </string>
+    <string name="fragment_two">Fragment Two </string>
+</resources>
